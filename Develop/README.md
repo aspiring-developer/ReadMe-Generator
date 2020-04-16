@@ -1,7 +1,7 @@
 
-![GitHub Download Count][![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]();
-# User Name: ssh1sharma  
-# ![Image description](https://github.com/ssh1sharma.png?size=200)
+![GitHub Download Count]https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg;
+# User Name: ss1sharma  
+# ![Image description](https://github.com/ss1sharma.png?size=200)
 ## Project Title: undefined
 
 **Project Description:** undefined
@@ -21,3 +21,7 @@
 **Contributing?:** undefined
 
 **Test Done?:** undefined
+
+**Installation Info:** undefined
+
+**More Info:** undefined

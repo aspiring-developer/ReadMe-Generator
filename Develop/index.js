@@ -42,6 +42,14 @@ function userInput() {
   //     type: "input",
   //     name: "tests",
   //     message: "Project tested? (Yes/No):"
+  // },
+  //     type: "input",
+  //     name: "install",
+  //     message: "Installation info available? (Yes/No):"
+  // },
+  //     type: "input",
+  //     name: "moreInfo",
+  //     message: "More Info (if any):"
   // }
 
   ]);
@@ -56,7 +64,6 @@ function writeToFile(fileName, data) {
 }
 
 async function init() {
-  
   const answers = await userInput();
   markdownGen(answers);
   writeToFile("README.md", markdownGen(answers));
