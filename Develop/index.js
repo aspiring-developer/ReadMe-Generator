@@ -11,38 +11,38 @@ function userInput() {
       type: "input",
       name: "username",
       message: "What is your GitHub user name?"
-    },
-    {
-      type: "input",
-      name: "title",
-      message: "Project title:"
-  },
-  {
-      type: "input",
-      name: "description",
-      message: "Project description:"
-  },
+    } // ,
+  //   {
+  //     type: "input",
+  //     name: "title",
+  //     message: "Project title:"
+  // },
+  // {
+  //     type: "input",
+  //     name: "description",
+  //     message: "Project description:"
+  // },
   
-  {
-      type: "input",
-      name: "usage",
-      message: "Project usage:"
-  },
-  {
-      type: "input",
-      name: "license",
-      message: "License:"
-  },
-  {
-      type: "input",
-      name: "contribute",
-      message: "Contributing? (Yes/No):"
-  },
-  {
-      type: "input",
-      name: "tests",
-      message: "Project tested? (Yes/No):"
-  }
+  // {
+  //     type: "input",
+  //     name: "usage",
+  //     message: "Project usage:"
+  // },
+  // {
+  //     type: "input",
+  //     name: "license",
+  //     message: "License:"
+  // },
+  // {
+  //     type: "input",
+  //     name: "contribute",
+  //     message: "Contributing? (Yes/No):"
+  // },
+  // {
+  //     type: "input",
+  //     name: "tests",
+  //     message: "Project tested? (Yes/No):"
+  // }
 
   ]);
 }
