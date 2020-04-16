@@ -6,17 +6,11 @@ return `
 # User Name: ${data.username}  
 # ![Image description](${profileImageURL})
 ## Project Title: ${data.title}
-**Project Description:** \n
-${data.description}
-**Project Usage:** \n
-${data.usage}
-**Project Licensing:** \n
-${data.license}
-**Contributing?:** \n
-${data.contribute}
-**Test Done?:** \n
-${data.tests} \n
-
+\n**Project Description:** ${data.description}
+\n**Project Usage:** ${data.usage}
+\n**Project Licensing:** ${data.license}
+\n**Contributing?:** ${data.contribute}
+\n**Test Done?:** ${data.tests}
 `;
 }
 
