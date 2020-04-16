@@ -3,3 +3,8 @@ node_modules
 /instruction-README.md
 /desktop.ini
 
+
+/utils
+index.js
+desktop.ini
+
