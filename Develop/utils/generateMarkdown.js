@@ -4,7 +4,7 @@ const gitHubBadge = `https://github-basic-badges.herokuapp.com/downloads/kennedy
 // const gitHubBadge = `[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]()`;
 console.log(gitHubBadge);
 return `
-![GitHub Download Count]${gitHubBadge};
+# ![GitHub Download Count](${gitHubBadge})
 # User Name: ${data.username}  
 # ![Image description](${profileImageURL})
 ## Project Title: ${data.title}
