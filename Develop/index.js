@@ -3,7 +3,6 @@ const fs = require("fs");
 const util = require("util");
 const axios = require("axios");
 const markdownGen = require ("./utils/generateMarkdown");
-// const writeFileAsync = util.promisify(fs.writeFile);
 const userNameFromApi = require ("./utils/api");
 
 function userInput() {
@@ -17,33 +16,33 @@ function userInput() {
       type: "input",
       name: "title",
       message: "Project title:"
-  }
-  // {
-  //     type: "input",
-  //     name: "description",
-  //     message: "Project description:"
-  // },
+  },
+  {
+      type: "input",
+      name: "description",
+      message: "Project description:"
+  },
   
-  // {
-  //     type: "input",
-  //     name: "usage",
-  //     message: "Project usage:"
-  // },
-  // {
-  //     type: "input",
-  //     name: "license",
-  //     message: "License:"
-  // },
-  // {
-  //     type: "input",
-  //     name: "contribute",
-  //     message: "Contributing:"
-  // },
-  // {
-  //     type: "input",
-  //     name: "tests",
-  //     message: "Project tests:"
-  // }
+  {
+      type: "input",
+      name: "usage",
+      message: "Project usage:"
+  },
+  {
+      type: "input",
+      name: "license",
+      message: "License:"
+  },
+  {
+      type: "input",
+      name: "contribute",
+      message: "Contributing? (Yes/No):"
+  },
+  {
+      type: "input",
+      name: "tests",
+      message: "Project tested? (Yes/No):"
+  }
 
   ]);
 }
@@ -61,7 +60,6 @@ async function init() {
   const answers = await userInput();
   markdownGen(answers);
   writeToFile("README.md", markdownGen(answers));
-// getUser(username);
 }
 
 init();
