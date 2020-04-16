@@ -3,8 +3,8 @@ const profileImageURL = `https://github.com/${data.username}.png?size=125`;
 console.log (profileImageURL);
  
   return `
-# ${data.username}  
-# ![Image description](${profileImageURL})
+# ${data.username} # ![Image description](${profileImageURL}) 
+
 ## ${data.title}
 **${data.description}**
 **${data.usage}**
