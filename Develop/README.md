@@ -1,10 +1,11 @@
 
-# ![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)
 # User Name: ssh1sharma  
 # ![Image description](https://github.com/ssh1sharma.png?size=200)
-## Project Title: undefined
+## Project Title: ReadMe generator
 
-**Project Description:** undefined
+**Project Description:** ReadMe generator that captures user's input and creates a read me file with their profile picture and received data from user.
+
+# ![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)
 
 #### Table of Contents:
 - Installation
@@ -14,14 +15,14 @@
 - Tests
 - More Info
 
-**Project Usage:** undefined
+**Project Usage:** It is free to use.
 
-**Project Licensing:** undefined
+**Project Licensing:** No license information available.
 
-**Contributing?:** undefined
+**Contributing?:** Not this time.
 
-**Test Done?:** undefined
+**Test Done?:** Tested locally.
 
-**Installation Info:** undefined
+**Installation Info:** Just download or clone the repo.
 
-**More Info:** undefined
+**More Info:** Final version will be available after April 20, 2020.
