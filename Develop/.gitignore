@@ -1,7 +1,5 @@
 node_modules
 .env
 /desktop.ini
-utils
-index.js
 desktop.ini
 
