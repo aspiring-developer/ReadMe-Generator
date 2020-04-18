@@ -2,7 +2,7 @@ function generateMarkdown(data) {
 const profileImageURL = `https://github.com/${data.username}.png?size=200`;
 
 const gitHubBadge = `https://img.shields.io/badge/Github-Badge-f39f37`;
-console.log(gitHubBadge);
+
 return `
 # User Name: ${data.username}  
 # ![Image description](${profileImageURL})

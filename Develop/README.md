@@ -1,11 +1,11 @@
 
-# User Name: ss1sharma  
-# ![Image description](https://github.com/ss1sharma.png?size=200)
-## Project Title: fg
+# User Name: ssh1sharma  
+# ![Image description](https://github.com/ssh1sharma.png?size=200)
+## Project Title: ReadMe Generator
 
-**Project Description:** hh
+**Project Description:** Dynamically updates read me file using user's input.
 
-# ![GitHub Download Count](https://img.shields.io/badge/Github-f39f37)
+# ![GitHub Download Count](https://img.shields.io/badge/Github-Badge-f39f37)
 
 #### Table of Contents:
 - Installation
@@ -15,14 +15,14 @@
 - Tests
 - More Info
 
-**Project Usage:** jj
+**Project Usage:** Use it to get some Github data.
 
-**Project Licensing:** ff
+**Project Licensing:** No license.
 
-**Contributing?:** dd
+**Contributing?:** No, not now.
 
-**Test Done?:** dd
+**Test Done?:** Yes, it was tested and working.
 
-**Installation Info:** dd
+**Installation Info:** Yes.
 
-**More Info:** dd
+**More Info:** All good!
