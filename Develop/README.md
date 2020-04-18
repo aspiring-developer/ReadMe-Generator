@@ -1,11 +1,11 @@
 
-# User Name: ssh1sharma  
-# ![Image description](https://github.com/ssh1sharma.png?size=200)
-## Project Title: ReadMe generator
+# User Name: ss1sharma  
+# ![Image description](https://github.com/ss1sharma.png?size=200)
+## Project Title: fg
 
-**Project Description:** ReadMe generator that captures user's input and creates a read me file with their profile picture and received data from user.
+**Project Description:** hh
 
-# ![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)
+# ![GitHub Download Count](https://img.shields.io/badge/Github-f39f37)
 
 #### Table of Contents:
 - Installation
@@ -15,14 +15,14 @@
 - Tests
 - More Info
 
-**Project Usage:** It is free to use.
+**Project Usage:** jj
 
-**Project Licensing:** No license information available.
+**Project Licensing:** ff
 
-**Contributing?:** Not this time.
+**Contributing?:** dd
 
-**Test Done?:** Tested locally.
+**Test Done?:** dd
 
-**Installation Info:** Just download or clone the repo.
+**Installation Info:** dd
 
-**More Info:** Final version will be available after April 20, 2020.
+**More Info:** dd
