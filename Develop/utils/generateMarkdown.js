@@ -1,14 +1,14 @@
 function generateMarkdown(data) {
 const profileImageURL = `https://github.com/${data.username}.png?size=200`;
 
-const gitHubBadge = `https://img.shields.io/badge/Github-${data.username}-f4f073`;
+const gitHubBadge = `https://img.shields.io/badge/Github-${data.username}-4cbbb9`;
 
 return `
 # User Name: ${data.username}  
 # ![Image description](${profileImageURL})
 ## Project Title: ${data.title}
 \n**Project Description:** ${data.description}
-\n# ![GitHub Download Count](${gitHubBadge})
+\n# ![GitHub User Name](${gitHubBadge})
 \n#### Table of Contents:
 - Installation
 - Usage

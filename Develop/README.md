@@ -1,11 +1,11 @@
 
 # User Name: ssh1sharma  
 # ![Image description](https://github.com/ssh1sharma.png?size=200)
-## Project Title: Read Me file generator
+## Project Title: README(dot)md (Read Me file) generator
 
 **Project Description:** Generates a read-me file that includes user's Github info received from user input.
 
-# ![GitHub Download Count](https://img.shields.io/badge/Github-ssh1sharma-f4f073)
+# ![GitHub User Name](https://img.shields.io/badge/Github-ssh1sharma-4cbbb9)
 
 #### Table of Contents:
 - Installation
@@ -21,8 +21,8 @@
 
 **Contributing?:** No, not at this time.
 
-**Test Done?:** Yes. It was tested.
+**Test Done?:** Yes, it was tested.
 
-**Installation Info:** Yes, just download or clone the repo.
+**Installation Info:** Yes, download or clone the repo.
 
-**More Info:** N/A
+**More Info:** No more info available at this time.
